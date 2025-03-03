@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
   <img src="https://img.shields.io/badge/MicroK8s-3E3C67?style=for-the-badge&logo=kubernetes&logoColor=white">
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
-  <img src="https://img.shields.io/badge/HaProxy-003B57?style=for-the-badge&logo=nginx&logoColor=white">
+  <img src="https://img.shields.io/badge/HaProxy-003B57?style=for-the-badge&logo=haproxy&logoColor=white">
   <img src="https://img.shields.io/badge/Hetzner_Cloud-FF5000?style=for-the-badge&logo=hetzner&logoColor=white">
 </p>
 
