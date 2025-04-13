@@ -1,5 +1,7 @@
 <h1 align=center>Hi, I`m Gandori (Marcel Stiebing)</h1>
 
+<p align="center">Self-taught backend developer passionate about scalable systems and continuous learning.</p>
+
 <div align="center"><b>Programming Languages</b></div>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
