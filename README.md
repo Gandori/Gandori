@@ -32,4 +32,5 @@
   <img style='width:100px;height:100px;' src="./icons/css-icon-200x200.png"> 
   <img style='width:100px;height:100px;' src="./icons/js-icon-200x200.png">   
   <img style='width:100px;height:100px;' src="./icons/react-icon-200x200.png"> 
+  <img style='width:100px;height:100px;' src="./icons/godot-icon-200x200.png"> 
 </div>
