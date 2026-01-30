@@ -2,6 +2,8 @@
 
 <p align="center">Self-taught backend developer passionate about scalable systems and continuous learning.</p>
 
+<p align="center">Good code in software development doesn`t wait; it reacts dynamically! Use Event-Driven-Architecture (EDA)!</p>
+
 <h4 align="center">Main Technologies</h4>
 
 <div align="center">
