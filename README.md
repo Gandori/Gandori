@@ -4,6 +4,8 @@
 
 <p align="center">Good code in software development doesn`t wait; it reacts dynamically! Use Event-Driven-Architecture (EDA)!</p>
 
+<p align="center"> Use Event-Sourcing (ES)! Because it`s more than just data.</p>
+
 <h4 align="center">Main Technologies</h4>
 
 <div align="center">
